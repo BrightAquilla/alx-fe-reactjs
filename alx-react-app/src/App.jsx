@@ -24,9 +24,9 @@ function App() {
       </div>
       <div>
         <UserProfile
-        name="Bright"
-        age="21"
-        bio="Loves fashion modelling"
+        name="Alice"
+        age="25"
+        bio="Loves hiking and photography"
        />
       </div>
       <div>
