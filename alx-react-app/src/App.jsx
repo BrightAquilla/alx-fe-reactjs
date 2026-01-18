@@ -1,4 +1,5 @@
 
+import UserProfile from './components/UserProfile';
 import Header from './components/Header';
 import MainContent from './components/MainContent';
 import Footer from './components/Footer';
@@ -20,6 +21,13 @@ function App() {
         <Header />
         <MainContent />
         <Footer />
+      </div>
+      <div>
+        <UserProfile
+        name="Bright"
+        age="21"
+        bio="Loves fashion modelling"
+       />
       </div>
       <div>
         <a href="https://vite.dev" target="_blank">
