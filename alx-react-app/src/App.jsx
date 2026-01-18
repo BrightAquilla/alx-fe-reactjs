@@ -18,11 +18,7 @@ function App() {
       </div>
       <div>
         <Header />
-      </div>
-      <div>
         <MainContent />
-      </div>
-      <div>
         <Footer />
       </div>
       <div>
