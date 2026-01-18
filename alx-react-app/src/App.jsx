@@ -14,10 +14,16 @@ function App() {
   return (
     <>
       <div>
-         <WelcomeMessage />
-          <Header />
-          <MainContent />
-          <Footer />
+         <WelcomeMessage />  
+      </div>
+      <div>
+        <Header />
+      </div>
+      <div>
+        <MainContent />
+      </div>
+      <div>
+        <Footer />
       </div>
       <div>
         <a href="https://vite.dev" target="_blank">
